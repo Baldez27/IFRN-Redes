@@ -1,3 +1,5 @@
+# Esse código calcula o valor do pagamento de uma conta e mostra o troco junto com a quantidade de cédulas.
+
 def calcular_troco(valor_conta, valor_pagamento):
     # Calcula o troco
     troco = valor_pagamento - valor_conta
